@@ -1,1 +1,1 @@
-Another Chwllenge
+Shell, init files, variables and expansions
